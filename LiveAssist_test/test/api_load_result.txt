@@ -1,0 +1,136 @@
+ivr_10chl_load_11282014_FB/Test_0000-ivrapi.log
+
+ 1 ivr_10chl_load_11282014_FB/Test_0001-ivrapi.log
+
+ 2 ivr_10chl_load_11282014_FB/Test_0002-ivrapi.log
+
+ 3 ivr_10chl_load_11282014_FB/Test_0003-ivrapi.log
+
+ 4 ivr_10chl_load_11282014_FB/Test_0004-ivrapi.log
+
+ 5 ivr_10chl_load_11282014_FB/Test_0005-ivrapi.log
+
+ 6 ivr_10chl_load_11282014_FB/Test_0006-ivrapi.log
+
+ 7 ivr_10chl_load_11282014_FB/Test_0007-ivrapi.log
+
+ 8 ivr_10chl_load_11282014_FB/Test_0008-ivrapi.log
+
+ 9 ivr_10chl_load_11282014_FB/Test_0009-ivrapi.log
+
+ 10 
+ivr_10chl_load_11282014_FB/Test_0000-ivrapi.log ###############################
+FOR 0000:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.00
+	api call test elapse(sec): 12000.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0001-ivrapi.log ###############################
+FOR 0001:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.47
+	api call test elapse(sec): 11370.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0002-ivrapi.log ###############################
+FOR 0002:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.49
+	api call test elapse(sec): 11391.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0003-ivrapi.log ###############################
+FOR 0003:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.53
+	api call test elapse(sec): 11445.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0004-ivrapi.log ###############################
+FOR 0004:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.49
+	api call test elapse(sec): 11395.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0005-ivrapi.log ###############################
+FOR 0005:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.49
+	api call test elapse(sec): 11395.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0006-ivrapi.log ###############################
+FOR 0006:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.52
+	api call test elapse(sec): 11426.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0007-ivrapi.log ###############################
+FOR 0007:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.55
+	api call test elapse(sec): 11469.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0008-ivrapi.log ###############################
+FOR 0008:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.49
+	api call test elapse(sec): 11386.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0009-ivrapi.log ###############################
+FOR 0009:
+	calls_count is 1200
+	calls passed iteration #: 1200
+	calls failed iteration #: 0
+	api call avg response time (sec): 3.49
+	api call test elapse(sec): 11396.00 
+
+###############################
+
+
+API LOG PARSING SUMMRY:
+Log dir: ivr_10chl_load_11282014_FB
+Each channel call iterations maximum set as: 1200
+Total triggered valid calls: 12000
+Total tested channels: 10
+	 total calls passed: 12000
+	 total calls failed: 0
+	 calls pass rate is 100.00 %
+	 calls fail rate is 0.00 %
+	 total calls passed vs maximum set rate is 100.00 %
+
+	 total average api response time (sec): 3.45
+	 total api call load test elapse (hr): 3.19
+

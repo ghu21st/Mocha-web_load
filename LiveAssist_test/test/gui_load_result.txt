@@ -1,0 +1,123 @@
+ivr_10chl_load_11282014_FB/Test_0001-gui.log
+
+ 1 ivr_10chl_load_11282014_FB/Test_0002-gui.log
+
+ 2 ivr_10chl_load_11282014_FB/Test_0003-gui.log
+
+ 3 ivr_10chl_load_11282014_FB/Test_0004-gui.log
+
+ 4 ivr_10chl_load_11282014_FB/Test_0005-gui.log
+
+ 5 ivr_10chl_load_11282014_FB/Test_0006-gui.log
+
+ 6 ivr_10chl_load_11282014_FB/Test_0007-gui.log
+
+ 7 ivr_10chl_load_11282014_FB/Test_0008-gui.log
+
+ 8 ivr_10chl_load_11282014_FB/Test_0009-gui.log
+
+ 9 
+ivr_10chl_load_11282014_FB/Test_0001-gui.log ###############################
+FOR 0001:
+	calls count is 1177
+	total call passed iteration #: 1177
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.14
+	gui call test elapse(sec): 10937.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0002-gui.log ###############################
+FOR 0002:
+	calls count is 1238
+	total call passed iteration #: 1238
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 11187.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0003-gui.log ###############################
+FOR 0003:
+	calls count is 1201
+	total call passed iteration #: 1201
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 10863.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0004-gui.log ###############################
+FOR 0004:
+	calls count is 1205
+	total call passed iteration #: 1205
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 10885.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0005-gui.log ###############################
+FOR 0005:
+	calls count is 1188
+	total call passed iteration #: 1188
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 10730.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0006-gui.log ###############################
+FOR 0006:
+	calls count is 1132
+	total call passed iteration #: 1132
+	calls failed iteration #: 0
+	gui call avg response time (sec): 3.02
+	gui call test elapse(sec): 11103.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0007-gui.log ###############################
+FOR 0007:
+	calls count is 1236
+	total call passed iteration #: 1236
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 11180.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0008-gui.log ###############################
+FOR 0008:
+	calls count is 1233
+	total call passed iteration #: 1233
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 11169.00 
+
+###############################
+
+ivr_10chl_load_11282014_FB/Test_0009-gui.log ###############################
+FOR 0009:
+	calls count is 1190
+	total call passed iteration #: 1190
+	calls failed iteration #: 0
+	gui call avg response time (sec): 2.00
+	gui call test elapse(sec): 10740.00 
+
+###############################
+
+
+GUI LOG PARSING SUMMRY:
+Log dir: ivr_10chl_load_11282014_FB
+Target each channel iteration: 1250
+Total calls: 10800
+Total test channels: 9
+	 total calls passed: 10800
+	 total calls failed: 0
+	 calls pass rate is 100.00 %
+	 calls fail rate is 0.00 %
+
+	 total average gui response time (sec): 2.13
+	 total gui call load test elapse (hr): 3.05
+
